@@ -4,7 +4,7 @@
 
 👨‍🎓 I have a Bachelor's Degree in Computer Science from [UFPR](https://www.ufpr.br/).
 
-👨‍💻 I'm working as a Fullstack Software Engineer at [EBANX](https://ebanx.com/).
+👨‍💻 I'm working as a Fullstack Software Engineer at [Avenue 8](https://avenue8.com/).
 
 📊 Here are some [stats](https://github.com/anuraghazra/github-readme-stats) of my github this year:
 
